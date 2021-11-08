@@ -15,9 +15,6 @@
                     <!-- Portfolio Item 1-->
                     <div class="col-md-6 col-lg-4 mb-5">
                         <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal1">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                            </div>
                             <img class="img-fluid" src="assets/img/portfolio/who.jpg" alt="Who is this class for?" />
                         </div>
                     </div>
@@ -31,6 +28,18 @@
                         </div>
                     </div>
                 </div>
+
+                <!-- Join this masterclass now -->
+
+                <div class="text-center mt-4" style="padding-top: -50px;">
+                <h3 class="text-align: center;">To participate in this masterclass, click the whatsapp icon below or send a whatsapp message to +2349135864976</h3>
+                    <a class="btn btn-xl btn-outline-light"  style="background-color: green !important" href="https://wa.me/2349135864976?text=I'm%20Interested%20in%20the%20Web%20Development%20Masterclass%20.%20My%20name%20is%20____">
+                    <img  src="assets/img/portfolio/whatsapp.png" style="width: 40px; height: 40px;" alt="Whatsapp Image">
+                        <i>Join this Masterclass Now!</i>
+                    </a>
+                </div>
+                <br><br>
+
 
 
                 <!-- Featuring -->
@@ -48,9 +57,6 @@
                     <!-- Portfolio Item 1-->
                     <div class="col-md-6 col-lg-4 mb-5">
                         <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal1">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                            </div>
                             <img class="img-fluid" src="assets/img/portfolio/featuring.jpg" alt="featuring" />
                         </div>
                     </div>
@@ -70,4 +76,15 @@
                 </div>
 
             </div>
+
+
+            <div class="text-center mt-4" style="padding-top: -50px;">
+                <h3 class="text-align: center;">To participate in this masterclass, click the whatsapp icon below or send a whatsapp message to +2349135864976</h3>
+                    <a class="btn btn-xl btn-outline-light"  style="background-color: green !important" href="https://wa.me/2349135864976?text=I'm%20Interested%20in%20the%20Web%20Development%20Masterclass%20.%20My%20name%20is%20____">
+                    <img  src="assets/img/portfolio/whatsapp.png" style="width: 40px; height: 40px;" alt="Whatsapp Image">
+                        <i>Join this Masterclass Now!</i>
+                    </a>
+                </div>
+                <br>
+            <br>
         </section>

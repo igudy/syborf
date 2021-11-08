@@ -21,7 +21,7 @@
     <!--================About Area =================-->
 
     <!--================Contact Area =================-->
-    <?php include("includes/contact.php"); ?>
+    <?php // include("includes/contact.php"); ?>
     <!--================Contact Area =================-->
 
     <!--================Footer Area =================-->
@@ -32,9 +32,6 @@
     <?php include("includes/copyright.php"); ?>
     <!--================Copyright Area =================-->
 
-    <!--================PortfolioModal Area =================-->
-    <?php include("includes/portfolioModal.php"); ?>
-    <!--================PortfolioModal Area =================-->
 
     </body>
     <!-- Bootstrap core JS-->
